@@ -1,4 +1,5 @@
 Essa foi a parte do códgigo que desenvolvi a resolução
+OBS: A resolução está ao final do dump que foi disponibilizado
 
 -- RESOLUÇÂO --
 
